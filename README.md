@@ -1,5 +1,5 @@
 # python-codes
-python basics for sem 2
+python for sem 2
 
 
 1. list
