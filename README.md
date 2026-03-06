@@ -1,8 +1,4 @@
-# python-codes
-python for sem 2
+#About
 
-
-1. list
-2. set
-3. tuple
-4. dictionary
+First year CS student from MIT ADT University,Maharashtra practicing Python fundamentals.
+Created for semester 2 coursework.
