@@ -24,8 +24,8 @@ class library:
 
 
 # Example usage:
-book1 = library("1984", "George Orwell")
-book2 = library("To Kill a Mockingbird", "Harper Lee", available=False)
+book1 = library("Godan", "Premchand")
+book2 = library("Gitanjali", "Rabindranath Tagore", available=False)
 
 book1.display_info()
 book2.display_info()
@@ -35,3 +35,4 @@ book1.display_info()
 
 book1.return_book()
 book1.display_info()
+
