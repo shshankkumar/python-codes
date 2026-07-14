@@ -1,1 +1,1 @@
-Second-year CSE student | Learning Python | Always eager to learn.
+First -year CSE student | Learning Python.
